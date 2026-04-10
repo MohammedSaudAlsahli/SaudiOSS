@@ -59,6 +59,15 @@
         "details": {
           "language": "Python",
           "license": "MIT",
+          "topics": ["streampay", "ai-agent", "cli-tool", "agents", "payments", "subscription"]
+        },
+        {
+        "name": "streampay-cli",
+        "URL": "https://github.com/MohammedSaudAlsahli/streampay-cli",
+        "description": "Community CLI tool for Streampay platform. Simplifies resource management for developers and autonomous AI agents.",
+        "details": {
+          "language": "Typescript",
+          "license": "MIT",
           "topics": ["FastAPI", "poetry", "downloader"]
         }
       }
